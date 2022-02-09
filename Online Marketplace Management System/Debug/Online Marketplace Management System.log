@@ -1,0 +1,15 @@
+﻿  Admin.cpp
+  Cart.cpp
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Cart.cpp(20,20): warning C4018: '<': signed/unsigned mismatch
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Cart.cpp(24,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Cart.cpp(40,22): warning C4018: '<': signed/unsigned mismatch
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Cart.cpp(52,22): warning C4018: '<': signed/unsigned mismatch
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Cart.cpp(61,64): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  Customer.cpp
+  Online Marketplace Management System.cpp
+  Product.cpp
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Product.cpp(40,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+E:\Problem Solving\Online Marketplace Management System\Online Marketplace Management System\Product.cpp(125,9): warning C4101: 'star': unreferenced local variable
+  seller.cpp
+  Generating Code...
+  Online Marketplace Management System.vcxproj -> E:\Problem Solving\Online Marketplace Management System\Debug\Online Marketplace Management System.exe
